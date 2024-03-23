@@ -1,24 +1,27 @@
-This is free and unencumbered software released into the public domain.
+The GNU Affero General Public License (AGPL) is an open source license that requires that any software that uses AGPL software, including modified versions, must also be released as open source software.  This means that you cannot use AGPL software for commercial software unless you also make the source code of that software public.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+ The AGPL aims to ensure that software remains free and open, even if it is used in proprietary software.  It does this by requiring that any software that uses AGPL software must also be released as open source software.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+ AGPL is most commonly used for web services and cloud computing software.  This is because these types of software are usually distributed over the Internet and users do not have access to the source code.  AGPL ensures that even if these types of software are used for proprietary services, users still have access to the source code.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+ AGPL is a very strict license and it may not be suitable for all projects.  However, if you are looking for a license that ensures that your software is free and open, the AGPL is a good choice.
 
-For more information, please refer to <https://unlicense.org>
+ In short, AGPL requires:
+
+ Any software that uses AGPL software (including modified versions) must also be released as open source software.
+ This means that you cannot use AGPL software for commercial software unless you also make the source code of that software public.
+ AGPL is most commonly used for web services and cloud computing software.
+
+GNU Affero 通用公共许可证 (AGPL) 是一种开源许可证，要求任何使用 AGPL 软件的软件（包括修改版本）也必须作为开源软件发布。 这意味着您不能将 AGPL 软件用于商业软件，除非您也公开该软件的源代码。
+
+  AGPL 旨在确保软件保持免费和开放，即使它用于专有软件。 为此，它要求任何使用 AGPL 软件的软件也必须作为开源软件发布。
+
+  AGPL 最常用于 Web 服务和云计算软件。 这是因为这些类型的软件通常通过互联网分发，用户无法访问源代码。  AGPL 确保即使这些类型的软件用于专有服务，用户仍然可以访问源代码。
+
+  AGPL 是一个非常严格的许可证，它可能并不适合所有项目。 但是，如果您正在寻找可确保您的软件免费且开放的许可证，那么 AGPL 是一个不错的选择。
+
+  简而言之，AGPL 要求：
+
+  任何使用 AGPL 软件（包括修改版本）的软件也必须作为开源软件发布。
+  这意味着您不能将 AGPL 软件用于商业软件，除非您也公开该软件的源代码。
+  AGPL 最常用于 Web 服务和云计算软件。
